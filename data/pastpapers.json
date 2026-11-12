@@ -1,0 +1,420 @@
+[
+  {
+    "id": "2020-june-2020",
+    "year": "2020",
+    "session": "June 2020",
+    "title": "June 2020 2020 Year 6 Computing Achievement Test",
+    "pdf": "paper-2020-june-2020.pdf",
+    "markSchemePdf": "",
+    "questionCount": 34,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {},
+    "markingTextFile": "",
+    "pages": 20,
+    "markSchemePages": 0
+  },
+  {
+    "id": "2021-summer-2021",
+    "year": "2021",
+    "session": "Summer 2021",
+    "title": "Summer 2021 2021 Year 6 Computing Achievement Test",
+    "pdf": "paper-2021-summer-2021.pdf",
+    "markSchemePdf": "markscheme-2021-summer-2021.pdf",
+    "questionCount": 31,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "2": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "6": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "7": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "9": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "19": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "24": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "29": {
+        "type": "mcq",
+        "answer": "D"
+      }
+    },
+    "markingTextFile": "marking-2021-summer-2021.txt",
+    "pages": 20,
+    "markSchemePages": 14
+  },
+  {
+    "id": "2021-october-2021",
+    "year": "2021",
+    "session": "October 2021",
+    "title": "October 2021 2021 Year 6 Computing Achievement Test",
+    "pdf": "paper-2021-october-2021.pdf",
+    "markSchemePdf": "markscheme-2021-october-2021.pdf",
+    "questionCount": 34,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "B"
+      }
+    },
+    "markingTextFile": "marking-2021-october-2021.txt",
+    "pages": 20,
+    "markSchemePages": 14
+  },
+  {
+    "id": "2022-summer-2022",
+    "year": "2022",
+    "session": "Summer 2022",
+    "title": "Summer 2022 2022 Year 6 Computing Achievement Test",
+    "pdf": "paper-2022-summer-2022.pdf",
+    "markSchemePdf": "markscheme-2022-summer-2022.pdf",
+    "questionCount": 33,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "3": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "6": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "7": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "8": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "12": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "13": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "14": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "25": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "26": {
+        "type": "mcq",
+        "answer": "C"
+      }
+    },
+    "markingTextFile": "marking-2022-summer-2022.txt",
+    "pages": 20,
+    "markSchemePages": 14
+  },
+  {
+    "id": "2022-october-2022",
+    "year": "2022",
+    "session": "October 2022",
+    "title": "October 2022 2022 Year 6 Computing Achievement Test",
+    "pdf": "paper-2022-october-2022.pdf",
+    "markSchemePdf": "markscheme-2022-october-2022.pdf",
+    "questionCount": 34,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "2": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "8": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "16": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "17": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "18": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "20": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "26": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "29": {
+        "type": "mcq",
+        "answer": "D"
+      }
+    },
+    "markingTextFile": "marking-2022-october-2022.txt",
+    "pages": 24,
+    "markSchemePages": 18
+  },
+  {
+    "id": "2023-summer-2023",
+    "year": "2023",
+    "session": "Summer 2023",
+    "title": "Summer 2023 2023 Year 6 Computing Achievement Test",
+    "pdf": "paper-2023-summer-2023.pdf",
+    "markSchemePdf": "markscheme-2023-summer-2023.pdf",
+    "questionCount": 31,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "3": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "5": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "6": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "9": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "11": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "17": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "18": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "29": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "31": {
+        "type": "mcq",
+        "answer": "D"
+      }
+    },
+    "markingTextFile": "marking-2023-summer-2023.txt",
+    "pages": 20,
+    "markSchemePages": 13
+  },
+  {
+    "id": "2023-october-2023",
+    "year": "2023",
+    "session": "October 2023",
+    "title": "October 2023 2023 Year 6 Computing Achievement Test",
+    "pdf": "paper-2023-october-2023.pdf",
+    "markSchemePdf": "markscheme-2023-october-2023.pdf",
+    "questionCount": 31,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "1": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "2": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "3": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "5": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "6": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "9": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "20": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "25": {
+        "type": "mcq",
+        "answer": "C"
+      }
+    },
+    "markingTextFile": "marking-2023-october-2023.txt",
+    "pages": 24,
+    "markSchemePages": 14
+  },
+  {
+    "id": "2024-may-2024",
+    "year": "2024",
+    "session": "May 2024",
+    "title": "May 2024 2024 Year 6 Computing Achievement Test",
+    "pdf": "paper-2024-may-2024.pdf",
+    "markSchemePdf": "markscheme-2024-may-2024.pdf",
+    "questionCount": 31,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "3": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "5": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "8": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "9": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "11": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "15": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "16": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "19": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "27": {
+        "type": "mcq",
+        "answer": "B"
+      }
+    },
+    "markingTextFile": "marking-2024-may-2024.txt",
+    "pages": 16,
+    "markSchemePages": 13
+  },
+  {
+    "id": "2024-october-2024",
+    "year": "2024",
+    "session": "October 2024",
+    "title": "October 2024 2024 Year 6 Computing Achievement Test",
+    "pdf": "paper-2024-october-2024.pdf",
+    "markSchemePdf": "",
+    "questionCount": 34,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {},
+    "markingTextFile": "",
+    "pages": 20,
+    "markSchemePages": 0
+  },
+  {
+    "id": "2025-may-2025",
+    "year": "2025",
+    "session": "May 2025",
+    "title": "May 2025 Year 6 Computing Achievement Test",
+    "pdf": "paper-2025-may-2025.pdf",
+    "markSchemePdf": "markscheme-2025-may-2025.pdf",
+    "questionCount": 32,
+    "duration": 60,
+    "totalMarks": 60,
+    "mcqKeys": {
+      "5": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "8": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "9": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "10": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "14": {
+        "type": "mcq",
+        "answer": "B"
+      },
+      "15": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "18": {
+        "type": "mcq",
+        "answer": "A"
+      },
+      "25": {
+        "type": "mcq",
+        "answer": "D"
+      },
+      "26": {
+        "type": "mcq",
+        "answer": "C"
+      },
+      "30": {
+        "type": "mcq",
+        "answer": "C"
+      }
+    },
+    "markingTextFile": "marking-2025-may-2025.txt",
+    "pages": 20,
+    "markSchemePages": 14
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "2020-june",
+    "year": 2020,
+    "session": "June 2020",
+    "start": 3,
+    "end": 22,
+    "title": "Tuesday 2 June 2020",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2020-june.pdf"
+  },
+  {
+    "id": "2021-paper-a",
+    "year": 2021,
+    "session": "2021 Paper A",
+    "start": 23,
+    "end": 42,
+    "title": "2021 Year 6 Achievement Test \u2014 Paper A",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2021-paper-a.pdf"
+  },
+  {
+    "id": "2021-paper-b",
+    "year": 2021,
+    "session": "2021 Paper B",
+    "start": 43,
+    "end": 62,
+    "title": "2021 Year 6 Achievement Test \u2014 Paper B",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2021-paper-b.pdf"
+  },
+  {
+    "id": "2022-paper-a",
+    "year": 2022,
+    "session": "2022 Paper A",
+    "start": 63,
+    "end": 82,
+    "title": "2022 Year 6 Achievement Test \u2014 Paper A",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2022-paper-a.pdf"
+  },
+  {
+    "id": "2022-paper-b",
+    "year": 2022,
+    "session": "2022 Paper B",
+    "start": 83,
+    "end": 106,
+    "title": "2022 Year 6 Achievement Test \u2014 Paper B",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2022-paper-b.pdf"
+  },
+  {
+    "id": "2023-may",
+    "year": 2023,
+    "session": "May 2023",
+    "start": 107,
+    "end": 126,
+    "title": "Tuesday 30 May 2023",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2023-may.pdf"
+  },
+  {
+    "id": "2023-october",
+    "year": 2023,
+    "session": "October 2023",
+    "start": 127,
+    "end": 150,
+    "title": "Monday 16 October 2023",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2023-october.pdf"
+  },
+  {
+    "id": "2024-may",
+    "year": 2024,
+    "session": "May 2024",
+    "start": 151,
+    "end": 166,
+    "title": "Tuesday 28 May 2024",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2024-may.pdf"
+  },
+  {
+    "id": "2024-october",
+    "year": 2024,
+    "session": "October 2024",
+    "start": 167,
+    "end": 186,
+    "title": "Monday 14 October 2024",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2024-october.pdf"
+  },
+  {
+    "id": "2025-may",
+    "year": 2025,
+    "session": "May 2025",
+    "title": "Tuesday 27 May 2025",
+    "duration": 60,
+    "marks": 60,
+    "file": "resources/papers/2025-may.pdf",
+    "questionsDigitised": 20
+  }
+]
